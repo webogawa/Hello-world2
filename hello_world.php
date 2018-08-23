@@ -5,4 +5,6 @@ echo "Hello World!";
 echo "かきくけこ";
 ?>
 
-
+<?php
+echo "テスト";
+?>
