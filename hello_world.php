@@ -2,7 +2,7 @@
 echo "Hello World!";
 ?>
 <?php
-echo "あいうえお";
+echo "かきくけこ";
 ?>
 
 
